@@ -33,7 +33,7 @@ img{
     padding: 1.4rem;
     border-radius: 0.5rem;
     width: calc(25% - 10%);
-    background-color: lightgrey;
+    background-color:  rgb(224, 224, 224);
 }
 
 p{
@@ -72,7 +72,7 @@ p{
     .hero_main{
         flex-wrap: wrap;
         gap: 0.8rem;
-        margin: 0.5rem;
+        margin: 0.2rem;
         
     }
 
