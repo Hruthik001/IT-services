@@ -75,28 +75,27 @@ p{
         margin-left: 1rem;
     }
 
-    .hero_main{
+     .hero_main{
         display: flex;
         padding: 1.5rem;
         gap: 1.5rem;
-        margin: -0.7rem;
+        margin: -0.8rem;
         flex-wrap: wrap;
     }
 
-    .hero_main_1 {
-        display: flex;
+    .hero_main_1{
         justify-content: space-between;
-        background-color: #f1f1f1;
-        padding: 1.8rem;
-        border-radius: 1.5rem;
-        width: calc(33.3333% - 1rem); 
-        align-items: center;
+        flex-wrap: wrap;
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+        margin: 0;
+        width: calc(35% - 1rem)
+    
     }
-
-    img {
-        width: 8rem;
+    img{
+    
+        width: 6rem;
         height: auto;
-        margin-left: -1.5rem;
     }
 
     p{
@@ -106,7 +105,8 @@ p{
     }
 
     .font{
-        margin-left: -1rem;
+        font-size: 1rem;
+        font-weight: 300;
     }
 }
 
